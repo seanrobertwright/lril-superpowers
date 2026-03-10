@@ -1,19 +1,17 @@
 {
-  "name": "superpowers-dev",
-  "description": "Development marketplace for Superpowers core skills library",
+  "name": "lril-superpowers",
+  "description": "Extended skills library for Claude Code: TDD, debugging, collaboration patterns, agent teams, and proven techniques",
   "owner": {
-    "name": "Jesse Vincent",
-    "email": "jesse@fsck.com"
+    "name": "Sean Wright"
   },
   "plugins": [
     {
-      "name": "superpowers",
-      "description": "Core skills library for Claude Code: TDD, debugging, collaboration patterns, and proven techniques",
+      "name": "lril-superpowers",
+      "description": "Core skills library for Claude Code: TDD, debugging, collaboration patterns, agent teams, and proven techniques",
       "version": "5.0.0",
       "source": "./",
       "author": {
-        "name": "Jesse Vincent",
-        "email": "jesse@fsck.com"
+        "name": "Sean Wright"
       }
     }
   ]
